@@ -77,3 +77,4 @@
 /media/esube/HDDStorage/Learn/Blazor/BlazorApp/obj/Debug/net9.0/BlazorApp.pdb
 /media/esube/HDDStorage/Learn/Blazor/BlazorApp/obj/Debug/net9.0/BlazorApp.genruntimeconfig.cache
 /media/esube/HDDStorage/Learn/Blazor/BlazorApp/obj/Debug/net9.0/ref/BlazorApp.dll
+/media/esube/HDDStorage/Learn/Blazor/BlazorApp/obj/Debug/net9.0/BlazorApp.sourcelink.json
